@@ -5,3 +5,4 @@ It randomly tries to draw all the flowers on the frame without overlapping them.
 If all the flowers are not drawn but space is all fileed up it will stop to draw more.
 If the frame is resized it will start drawing the remaining flowers on the frame.
 
+Got the best implementation in class reward for this project.
